@@ -1,0 +1,7 @@
+suc code: 2347390216
+Student name: Boppana Sri Nanditha
+Gender: Female
+Group: BCA
+Adress: Kakinada, Andhra pradesh
+Phone number: 9000883177
+Email id: nanduboppana05@gmail.com
